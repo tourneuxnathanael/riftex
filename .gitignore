@@ -1,0 +1,8 @@
+node_modules/
+.env
+output/
+.data/
+assets/fonts/*.ttf
+assets/music/*
+!assets/music/.gitkeep
+*.log
