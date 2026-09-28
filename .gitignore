@@ -1,8 +1,10 @@
-node_modules/
 .env
+.venv/
+venv/
+__pycache__/
+*.pyc
 output/
-.data/
+.cache/
 assets/fonts/*.ttf
 assets/music/*
 !assets/music/.gitkeep
-*.log
